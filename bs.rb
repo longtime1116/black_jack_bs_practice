@@ -9,4 +9,6 @@ player_hand1 = hand_str(random)
 player_hand2 = hand_str(random)
 
 p "dealer: #{dealer_hand}"
-p "player: #{player_hand1}, #{player_hand2}"
+#p "player: #{player_hand1}, #{player_hand2}"
+#p "player: A, #{player_hand2}"
+p "player: #{player_hand1}, #{player_hand1}"
